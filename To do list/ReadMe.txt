@@ -1,0 +1,1 @@
+In this app an user can add a task, mark a task as completed and delete an already added task.
