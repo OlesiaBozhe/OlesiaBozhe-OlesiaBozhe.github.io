@@ -1,0 +1,42 @@
+.body {
+  font-family: 'Roboto';
+}
+.header__block{
+    width: 70%;
+}
+.header__block__link{
+    font-size: 1.6rem;
+}
+.content {
+    width: 80%;
+}
+.block__btn {
+    height: 2.4rem;
+}
+.block-dark__text {
+    width: 40%;
+}
+.b-dark__box {
+    width: 68%;
+}
+.block-light__text {
+    width: 40%;
+}
+.b-light__box {
+    width: 68%;
+}
+.footer-block {
+  width: 68%;
+}
+.form-block__btn {
+  height: 2rem;
+}
+.bt__color {
+  background-color: #ff7f50;
+  border:none;
+  border-radius: 0.2rem;
+  color: white;
+  font-weight: 500;
+}
+
+
