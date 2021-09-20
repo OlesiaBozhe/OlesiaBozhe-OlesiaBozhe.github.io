@@ -340,6 +340,10 @@ a {
 .touch_btn {
   margin: 0px calc((100% - 200px) / 2);
 }
+
+input:hover{
+ cursor:pointer;
+}
 .footer_con {
   min-height: 420px;
   padding: 0px 135px;
